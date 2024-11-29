@@ -1,5 +1,4 @@
-// Add Maven Central as a resolver
-// resolvers += Resolver.mavenCentral
+resolvers += Resolver.mavenCentral
 
 addSbtPlugin("org.scalastyle" %% "scalastyle-sbt-plugin" % "1.0.0")
 
